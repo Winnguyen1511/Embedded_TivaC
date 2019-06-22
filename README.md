@@ -1,2 +1,3 @@
 # Embedded_TivaC
 This is my research about TivaC series of Texas Instrument
+Still many things in my PC i cannnot upload all in here. They are too heavy...
